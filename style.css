@@ -2,3 +2,18 @@
     font-family: "inter";
     margin: 0px;
 }
+#topmenu{
+    background-color: #303030;
+    padding-top: 200px;
+    color: #FFFFFF;
+    height: 175px;
+}
+
+#title-topmenu {
+    margin-top: 0px;
+    margin-left: 50px;
+}
+#text-topmenu {
+    margin-top: 20px;
+    margin-left: 50px;
+}
