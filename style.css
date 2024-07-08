@@ -10,10 +10,26 @@
 }
 
 #title-topmenu {
+    font-weight: 500;
+    font-size: 60px;
     margin-top: 0px;
     margin-left: 50px;
 }
 #text-topmenu {
     margin-top: 20px;
     margin-left: 50px;
+}
+#infomenu{
+    padding: 100px 50px 50px 200px;
+    background-color: #f9f9f9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#info-data{
+    font-weight: 600;
+}
+#info-text{
+
 }
