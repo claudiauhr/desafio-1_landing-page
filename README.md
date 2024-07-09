@@ -8,7 +8,7 @@ SheetMonkey for data management.
 
 **Image:**
 
-![working version](/images/screenshot.png)
+![working version](screenshot.png)
 
 **Project Setup:**
 
