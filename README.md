@@ -42,5 +42,5 @@ SheetMonkey for data management.
 
 ## Getting Start
 
-[Click here](https://lp-arch-office.netlify.app/) to visit the deployed app!
-[Click here](https://docs.google.com/spreadsheets/d/1iEC0RgF6qKxwnIozkKmlHzTGrEgYhz3jboBacrlAu6k/edit?gid=0#gid=0) and see how it works!
+- [Click here](https://lp-arch-office.netlify.app/) to visit the deployed app!
+- [Click here](https://docs.google.com/spreadsheets/d/1iEC0RgF6qKxwnIozkKmlHzTGrEgYhz3jboBacrlAu6k/edit?gid=0#gid=0) and see how it works!
