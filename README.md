@@ -42,4 +42,4 @@ SheetMonkey for data management.
 
 ## Getting Start
 
-[Click here]() to visit the deployed app!
+[Click here](https://lp-arch-office.netlify.app/) to visit the deployed app!
