@@ -12,13 +12,13 @@ SheetMonkey for data management.
 
 ![working version](screenshot.png)
 
-##Project Setup:
+## Project Setup:
 
 1.  Clone this repository.
 2.  Install requeired dependencies. (Bash)
 3.  (Optional) Create a free account and configure the API key.
 
-##Folder Structure:
+## Folder Structure:
 
 - `src/`: Contains all project source files.
   - `image.svg`: Image for the landing page.
@@ -26,7 +26,7 @@ SheetMonkey for data management.
   - `index.js`: JavaScript file for the interactivity.
   - `style.css`: Stylesheet for the landing page.
 
-##Technologies used:
+## Technologies used:
 
 - HTML5: Provides the structure and the content for the landing page.
 - CSS3: Styles the visual elements of the landing page.
@@ -34,11 +34,12 @@ SheetMonkey for data management.
 - Google Fonts: Style the fonts to keep the project clean and beautiful.
 - SheetMonkey (Optional): Used to manage data for the landing page content, is user-friendly, and brings connectivity to the project.
 
-##Customization:
+## Customization:
 
 - Edit the content within index.html to reflect the architecture firm's vision and new information.
 - Customize the style in style.css to match the firm's branding.
 - If using SheetMonkey, update the API key and spreadsheet as needed.
 
-##Deployment:
-You can find the landing page deployed here:
+## Getting Start
+
+[Click here]() to visit the deployed app!
