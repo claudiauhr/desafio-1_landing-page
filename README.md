@@ -6,6 +6,10 @@ This landing page is designed to showcase the works and services of an architect
 It utilizes HTML5 for structure, CSS3 for styling, JavaScript for interactivity, and
 SheetMonkey for data management.
 
+**Image:**
+
+![](./images/screenshot.png)
+
 **Project Setup:**
 
 1.  Clone this repository.
