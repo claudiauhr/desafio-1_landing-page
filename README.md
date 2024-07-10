@@ -16,7 +16,7 @@ SheetMonkey for data management.
 
 1.  Clone this repository.
 2.  Install requeired dependencies. (Bash)
-3.  (Optional) Create a free account and configure the API key.
+3.  (Optional) Create a free account and configure SheetMonkey.
 
 ## Folder Structure:
 
